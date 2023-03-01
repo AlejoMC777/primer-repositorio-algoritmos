@@ -20,3 +20,6 @@ print(f"El resultado de la division es: {f}")
 print(f"El resultado de la potencia es: {g}")
 print(f"El resultado de la raiz es: {h}")
 print("cambio git hub")
+
+operador = ((15/3)(7+(68-1533+((45**2)/5)/3)/2)+19)
+print(float(operador))
